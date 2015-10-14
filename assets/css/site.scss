@@ -1,0 +1,22 @@
+---
+---
+@import "poole";
+@import "syntax";
+@import "hyde";
+
+.sidebar-about h1{
+  font-family: 'chaparral-pro';
+  font-weight: 600;
+}
+.sidebar-nav-item{
+  font-family: 'chaparral-pro';
+  font-weight: 400;
+}
+.post-title, h1, h2, h3, {
+  font-family: 'chaparral-pro';
+  font-weight: 700;
+
+}
+html{
+  font-family: 'ff-meta-web-pro';
+}

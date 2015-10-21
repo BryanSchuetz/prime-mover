@@ -3,20 +3,4 @@
 @import "poole";
 @import "syntax";
 @import "hyde";
-
-.sidebar-about h1{
-  font-family: "brandon-grotesque", "Arial", sans-serif;
-  font-weight: 100;
-}
-.sidebar-nav-item{
-  font-family: "brandon-grotesque";
-  font-weight: 300;
-}
-.post-title, h1, h2, h3, {
-  font-family: "brandon-grotesque";
-  font-weight: 700;
-
-}
-html{
-  font-family: "ff-tisa-web-pro";
-}
+@import "typography";

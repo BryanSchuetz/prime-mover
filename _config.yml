@@ -7,7 +7,7 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Place Holder
+title:            Tiny Quark
 tagline:          'A tagline place holder. The real tagline can go here.'
 baseurl:          /
 destination:      ./build

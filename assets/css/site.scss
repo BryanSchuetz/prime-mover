@@ -4,3 +4,13 @@
 @import "syntax";
 @import "hyde";
 @import "typography";
+
+body{
+  visibility: hidden;
+}
+.wf-inactive body{
+  visibility: visible;
+}
+.wf-active body {
+  visibility: visible;
+}

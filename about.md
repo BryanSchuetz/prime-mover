@@ -1,30 +1,15 @@
 ---
 layout: page
-title: About
+title: About Us
 ---
+We make great stuff, for ourselves and for others. **We handcraft focused, adaptive sites for clients**. We believe in a rapid, iterative process that solves the right problems at the right time.
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+**We believe in open source**—so we contribute regularly to the ever-growing ecosystem of great software that's currently transforming the web.
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+**We like to help**—so we offer deeply discounted services to socially responsible businesses and nonprofits.
 
-There are currently two themes built on Poole:
+**We like to talk**—so if you have any questions, want to run something by us, or just want to find the best places in the city for a good pour-over, [get in touch](mailto:bschuetz@gmail.com).
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Our Approach
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+It's true, we're small—but we're wiry, and focused. We only take on a single client at a time and we go full tilt

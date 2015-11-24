@@ -2,7 +2,7 @@
 
   <div class="container sidebar-sticky">
     <div class="sidebar-about">
-      <svg class="quark-large" viewBox="0 0 566 515" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-large"></use></svg>
+      <svg class="quark-large {% if page.title == 'Home' %}animated rotateIn {% endif %}" viewBox="0 0 566 515" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-large"></use></svg>
       <h1>
         <a href="/">
           Tiny Quark
@@ -27,7 +27,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-      
+
     </nav>
   </div>
 </div>

@@ -1,5 +1,7 @@
 ---
 ---
+@import "superfluous-animations";
+@import "variables";
 @import "poole";
 @import "syntax";
 @import "hyde";
@@ -19,14 +21,38 @@ body{
   width: 100%;
 }
 .lead-in{
-  font-size: 1.5rem;
+  font-size: 1.4rem;
+  @include responsive(wide-screens){
+    font-size: 1.7rem;
+  }
   margin-bottom: 4rem;
+  text-align: center;
 }
 .more{
+  font-size: .7rem;
   text-align: right;
   font-family: "brandon-grotesque", "Arial Black", sans-serif;
   font-weight: 700;
 }
 .more--icon{
-  height: 1.5rem;
+  position: relative;
+  height: .5rem;
+  top: .1rem;
+}
+.quark-small{
+  z-index: 1;
+  height: 1rem;
+  position: relative;
+  top: 5.9em;
+  left: 50%;
+}
+.svg{
+  fill: currentColor;
+}
+.tilt{
+  -ms-transform: rotate(-2deg); /* IE 9 */
+  -webkit-transform: rotate(-2deg); /* Safari */
+  transform: rotate(-2deg);
+  margin: 5rem 0;
+  border-bottom: 1px solid $blue;
 }

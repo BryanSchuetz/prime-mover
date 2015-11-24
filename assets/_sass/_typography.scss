@@ -15,5 +15,9 @@ html{
   font-family: "ff-tisa-web-pro", Georgia, serif;
 }
 a{
-  color: #02D4FF;
+  color: $blue;
+}
+a:hover, a.sidebar-nav-item:hover{
+  text-decoration: none;
+  color: $blue;
 }

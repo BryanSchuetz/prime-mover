@@ -43,7 +43,7 @@ body{
 .more--icon{
   position: relative;
   height: .5rem;
-  top: .1rem;
+  top: .02rem;
 }
 .quark-small{
   z-index: 1;
@@ -62,4 +62,7 @@ body{
   margin-top: 3rem;
   margin-bottom: 4.5rem;
   border-bottom: 1px solid $blue;
+}
+.section-header{
+  margin-bottom: 3rem;
 }

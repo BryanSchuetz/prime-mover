@@ -69,3 +69,14 @@ body{
 .work-block{
   margin-bottom: 3rem;
 }
+.work-image img{
+  position: relative;
+  filter: grayscale(100%);
+  top: 0px;
+  transition: filter .3s, top .3s;
+}
+.work-image:hover img{
+  filter: grayscale(0%);
+  top: -5px;
+  transition: filter .3s, top .3s;
+}

@@ -1,10 +1,8 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown:         kramdown
 
 # Permalinks
-permalink:        pretty
-relative_permalinks: true
+permalink:        :title
 
 # Setup
 title:            Tiny Quark
@@ -15,8 +13,6 @@ destination:      ./build
 author:
   name:           'Bryan Schuetz'
   url:            http://distresssignal.org
-
-paginate:         5
 
 # Custom vars
 version: 1.0

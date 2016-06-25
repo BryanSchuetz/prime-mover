@@ -80,3 +80,17 @@ body{
   top: -5px;
   transition: filter .3s, top .3s;
 }
+.more-button{
+  padding: .8rem;
+  background-color: #2BD2F7;
+  color: white;
+  font-family: "brandon-grotesque", "Arial", sans-serif;
+  border-radius: 5px;
+  display: block;
+  text-align: center;
+  width: 100%;
+  &:hover{
+    color: white;
+    background-color: darken(#2BD2F7, 10%);
+  }
+}

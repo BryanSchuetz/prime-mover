@@ -35,3 +35,9 @@ Below are a few examples of previous work. Read the brief, have a look at the sc
 <a class="work-image" href="http://on-the-trail.net"><img src="/assets/images/screenshot_trail.jpg" alt=""></a>
 <p>We're into backpacking in a big way here at Tiny Quark—lightweight backpacking to be specific. So we started this little site to house a growing collection of geeky interviews with lightweight backapackers from all over the world. We ask them each a couple questions about what they take on the trail, and along the way we all learn a bit about what makes this sport so great. We've got a lot more interviews in the bag, waiting to be added—and a number of additional features we'll be rolling out soon.</p>
 </div>
+<div class="work-block">
+<h4>DAI Corporate Site</h4>
+
+<a class="work-image" href="http://beta-corp.surge.sh"><img src="/assets/images/screenshot_dai.jpg" alt=""></a>
+<p>DAI is a $400m global development company leading large scale projects all over the world for clients like <a href="http://www.usaid.gov">USAID</a>, <a href="https://www.gov.uk/government/organisations/department-for-international-development">DFID</a>, and the <a href="http://ec.europa.eu/index_en.htm">EC</a>. This new primary corporate site moves DAI away from the aging behemoth that is Drupal, and plants them firmly into the modern world of web publishing. Built as a <em>decoupled content management system</em>, and designed with responsive principles—the new site help DAI turn their American success story into a global one. </p>
+</div>

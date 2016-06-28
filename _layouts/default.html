@@ -4,12 +4,13 @@
   {% include head.html %}
 
   <body>
-    {% include svg-defs.html %}
-    {% include sidebar.html %}
+    <div class="big-wrap">
+      {% include svg-defs.html %}
+      {% include sidebar.html %}
 
-    <div class="content container">
-      {{ content }}
+      <div class="content container">
+        {{ content }}
+      </div>
     </div>
-
   </body>
 </html>

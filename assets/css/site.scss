@@ -94,3 +94,10 @@ body{
     background-color: darken(#2BD2F7, 10%);
   }
 }
+
+@media (min-width: 1292px){
+  .big-wrap{
+    margin: auto;
+    width: 1300px;
+  }
+}

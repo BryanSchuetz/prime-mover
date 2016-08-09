@@ -41,3 +41,9 @@ Below are a few examples of previous work. Read the brief, have a look at the sc
 <a class="work-image" href="http://beta-corp.surge.sh"><img src="/assets/images/screenshot_dai.jpg" alt=""></a>
 <p>DAI is a $400m global development company leading large scale projects all over the world for clients like <a href="http://www.usaid.gov">USAID</a>, <a href="https://www.gov.uk/government/organisations/department-for-international-development">DFID</a>, and the <a href="http://ec.europa.eu/index_en.htm">EC</a>. This new primary corporate site moves DAI away from the aging behemoth that is Drupal, and plants them firmly into the modern world of web publishing. Built as a <em>decoupled content management system</em>, and designed with responsive principles—the new site will help DAI turn their American success story into a global one.</p>
 </div>
+<div class="work-block">
+<h4>Preparedness and Response</h4>
+
+<a class="work-image" href="http://preparednessandresponse.org"><img src="/assets/images/pandr.jpg" alt=""></a>
+<p>The Preparedness and Response project (P&R) is one component of the U.S. Agency for International Development’s (USAID) Emerging Pandemic Threats program. The EPT initiative detects and responds to viruses such as Ebola, avian influenza, and MERS that move between animal and human populations. A decoupled CMS, publishing highly cacheable static assets, ready for hosting on a CDN anywhere around the world—allowed P&R to quickly establish an online presence with enough flexibility to grow as the project scaled up its activities.</p>
+</div>

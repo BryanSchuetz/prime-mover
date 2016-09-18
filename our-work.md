@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Our Work
+sort: 2
 ---
 
 Below are a few examples of previous work. Read the brief, have a look at the screenshot, and click through to visit the live site. Clearly, our portfolio is still growing—we'd love the chance to add some work for you to our book.

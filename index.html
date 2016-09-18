@@ -49,63 +49,12 @@ title: Home
 
 <div class="work-block">
 <p>It's true, we're small—but we're wiry, and focused. We only take on a few clients at a time and we go full tilt for them. While we believe in the fundamental principles of <a href="https://en.wikipedia.org/wiki/Agile_software_development">Agile Development</a>, we're not devout about it. <strong>An open, honest, and frequent dialogue about a project's progress, objectives, and roadblocks is the most essential component to building great stuff</strong>—this, we believe.</p>
+<a href="/about" class="more-button">Leran More About Us</a>
 </div>
-
+<svg class="quark-small" viewBox="0 0 122 122" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-small"></use></svg><hr class="tilt">
 <div class="work-block">
     <h2>Contact Us</h2>
     <p>Everything starts with an initial free consult. Let us know what you're working on—we'll think through it together and see if we can help out. If it's not right for us, we'll help you figure out what your next steps might be. <strong>We like to help</strong>.</p>
-    <section>
-    <form id="theForm" class="simform" autocomplete="off">
-    	<div class="simform-inner">
-    		<ol class="questions">
-    			<li>
-    				<span><label for="q1">Name</label></span>
-    				<input id="q1" name="q1" type="text"/>
-    			</li>
-    			<li>
-    				<span><label for="q2">Email Address</label></span>
-    				<input id="q2" name="q2" type="text"/>
-    			</li>
-          <li>
-    				<span><label for="q3">What would you like to talk about?</label></span>
-    				<input id="q3" name="q3" type="text"/>
-    			</li>
-    		</ol><!-- /questions -->
-    		<button class="submit" type="submit">Send answers</button>
-    		<div class="controls">
-    			<button class="next">▶</button>
-    			<div class="progress"></div>
-    			<span class="number">
-    				<span class="number-current"></span>
-    				<span class="number-total"></span>
-    			</span>
-    			<span class="error-message"></span>
-    		</div><!-- / controls -->
-    	</div><!-- /simform-inner -->
-    	<span class="final-message"></span>
-    </form><!-- /simform -->
-    </section>
-    <script>
-    			var theForm = document.getElementById( 'theForm' );
-
-    			new stepsForm( theForm, {
-    				onSubmit : function( form ) {
-    					// hide form
-    					classie.addClass( theForm.querySelector( '.simform-inner' ), 'hide' );
-
-    					/*
-    					form.submit()
-    					or
-    					AJAX request (maybe show loading indicator while we don't have an answer..)
-    					*/
-
-    					// let's just simulate something...
-    					var messageEl = theForm.querySelector( '.final-message' );
-    					messageEl.innerHTML = 'Thank\’s, for reaching out. We\'ll get back to you as soon as we can.';
-    					classie.addClass( messageEl, 'show' );
-    				}
-    			} );
-    		</script>
-
+    <a href="/contact" class="more-button">Conact Us Now</a>
 </div>
 <!-- <a href="mailto:bschuetz@gmail.com" class="more-button">Conact Us Now</a> -->

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+sort: 1
 ---
 We make great stuff, for ourselves and for others. **We handcraft focused, adaptive sites for clients**. We believe in a rapid, iterative process that solves the right problems at the right time.
 
@@ -8,7 +9,7 @@ We make great stuff, for ourselves and for others. **We handcraft focused, adapt
 
 **We like to help**—so we offer deeply discounted services to socially responsible businesses and nonprofits.
 
-**We like to talk**—so if you have any questions, want to run something by us, or just want to find the best places in the city for a good pour-over, [get in touch](mailto:bschuetz@gmail.com).
+**We like to talk**—so if you have any questions, want to run something by us, or just want to find the best places in the city for a good pour-over, [get in touch](/contact).
 <svg class="quark-small" viewBox="0 0 122 122" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-small"></use></svg><hr class="tilt">
 
 <h2>Our Approach</h2>
@@ -19,4 +20,4 @@ We make great stuff, for ourselves and for others. **We handcraft focused, adapt
 <p>Everything starts with an initial free consult. Let us know what you're working on—we'll think through it together and see if we can help out. If it's not right for us, we'll help you figure out what your next steps might be. <strong>We like to help</strong>.</p></div>
 
 
-<a href="mailto:bschuetz@gmail.com" class="more-button">Conact Us Now</a>
+<a href="/contact" class="more-button">Conact Us Now</a>

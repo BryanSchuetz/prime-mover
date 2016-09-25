@@ -6,7 +6,7 @@ sort: 3
 All engagements at Tiny Quark start with an initial free consult. Let us know what you're working on—we'll think through it together and see if we can help out. If it's not right for us, we'll help you figure out what your next steps might be. **We like to help—reach out to us below**.
 
 <section>
-<form name="quark-contact" id="theForm" class="simform" autocomplete="off" action="https://formkeep.com/f/8777cebca13e">
+<form name="quark-contact" id="theForm" class="simform" autocomplete="off" action="https://formkeep.com/f/8777cebca13e" method="POST">
   <div class="simform-inner">
     <ol class="questions">
       <li>
@@ -43,7 +43,24 @@ All engagements at Tiny Quark start with an initial free consult. Let us know wh
         onSubmit : function( form ) {
           // hide form
           classie.addClass( theForm.querySelector( '.simform-inner' ), 'hide' );
+              event.preventDefault();
 
+    var formEl = $('#theForm');
+    var submitButton = $('input[type=submit]', formEl);
+
+    $.ajax({
+      type: 'POST',
+      url: formEl.prop('action'),
+      accept: {
+        javascript: 'application/javascript'
+      },
+      data: formEl.serialize(),
+      beforeSend: function() {
+        submitButton.prop('disabled', 'disabled');
+      }
+    }).done(function(data) {
+      submitButton.prop('disabled', false);
+    });
           /*
           form.submit()
           or

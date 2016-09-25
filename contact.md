@@ -6,7 +6,7 @@ sort: 3
 All engagements at Tiny Quark start with an initial free consult. Let us know what you're working on—we'll think through it together and see if we can help out. If it's not right for us, we'll help you figure out what your next steps might be. **We like to help—reach out to us below**.
 
 <section>
-<form name="quark-contact" id="theForm" class="simform" autocomplete="off" netlify>
+<form name="quark-contact" id="theForm" class="simform" autocomplete="off" action="https://formkeep.com/f/8777cebca13e">
   <div class="simform-inner">
     <ol class="questions">
       <li>

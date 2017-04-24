@@ -5,12 +5,12 @@ sort: 2
 ---
 
 Below are a few examples of previous work. Read the brief, have a look at the screenshot, and click through to visit the live site. Clearly, our portfolio is still growing—we'd love the chance to add some work for you to our book.
-<svg class="quark-small" viewBox="0 0 122 122" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-small"></use></svg><hr class="tilt">
+<!-- <svg class="quark-small" viewBox="0 0 122 122" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-small"></use></svg> --><hr class="tilt">
 
 <div class="work-block">
 <h4>DAI Corporate Site</h4>
 
-<a class="work-image" href="http://beta-corp.surge.sh"><img src="/assets/images/screenshot_dai.jpg" alt=""></a>
+<a class="work-image" href="https://www.dai.com"><img src="/assets/images/screenshot_dai.jpg" alt=""></a>
 <p>DAI is a $400m global development company leading large scale projects all over the world for clients like <a href="http://www.usaid.gov">USAID</a>, <a href="https://www.gov.uk/government/organisations/department-for-international-development">DFID</a>, and the <a href="http://ec.europa.eu/index_en.htm">EC</a>. This new primary corporate site moves DAI away from the aging behemoth that is Drupal, and plants them firmly into the modern world of web publishing. Built as a <em>decoupled content management system</em>, and designed with responsive principles—the new site will help DAI turn their American success story into a global one.</p>
 </div>
 <div class="work-block">

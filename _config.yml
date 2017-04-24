@@ -6,7 +6,7 @@ permalink:        :title
 
 # Setup
 title:            Tiny Quark
-tagline:          'A tagline place holder. The real tagline can go here.'
+tagline:          'We build great stuff.'
 baseurl:          /
 destination:      ./build
 

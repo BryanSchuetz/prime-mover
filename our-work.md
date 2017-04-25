@@ -5,7 +5,7 @@ sort: 2
 ---
 
 Below are a few examples of previous work. Read the brief, have a look at the screenshot, and click through to visit the live site. Clearly, our portfolio is still growing—we'd love the chance to add some work for you to our book.
-<!-- <svg class="quark-small" viewBox="0 0 122 122" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-small"></use></svg> --><hr class="tilt">
+<svg class="quark-small" viewBox="0 0 18 18" preserveAspectRatio="xMinYMax meet"><use xlink:href="#pbd"></use></svg><hr class="tilt">
 
 <div class="work-block">
 <h4>DAI Corporate Site</h4>

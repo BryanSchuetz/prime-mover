@@ -10,7 +10,7 @@ We make great stuff, for ourselves and for others. **We handcraft focused, adapt
 **We like to help**—so we offer deeply discounted services to socially responsible businesses and nonprofits.
 
 **We like to talk**—so if you have any questions, want to run something by us, or just want to find the best places in the city for a good pour-over, [get in touch](/contact).
-<!-- <svg class="quark-small" viewBox="0 0 122 122" preserveAspectRatio="xMinYMax meet"><use xlink:href="#quark-small"></use></svg> --><hr class="tilt">
+<svg class="quark-small" viewBox="0 0 18 18" preserveAspectRatio="xMinYMax meet"><use xlink:href="#pbd"></use></svg><hr class="tilt">
 
 <h2>Our Approach</h2>
 

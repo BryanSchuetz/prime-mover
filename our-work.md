@@ -4,7 +4,7 @@ title: Our Work
 sort: 2
 ---
 
-Below are a few examples of previous work. Read the brief, have a look at the screenshot, and click through to visit the live site. We'd love the chance to add some work for you.
+Below are a few examples of previous work. Read the brief, have a look at the screenshot, and click through to visit the live site. We'd love the chance to add some work for you to our book.
 <svg class="quark-small" viewBox="0 0 18 18" preserveAspectRatio="xMinYMax meet"><use xlink:href="#pbd"></use></svg><hr class="tilt">
 
 <div class="work-block">
